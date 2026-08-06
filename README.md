@@ -39,8 +39,19 @@ docs/
 hardware/
 images/
 screenshots/
+## 📸 Project Screenshots
 
+### 🏠 Home Page
+![Home Page](screenshots/home_page.png)
 
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🌾 Crop Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
+
+### 📡 Sensor Data
+![Sensor Data](screenshots/sensor_data.png)
 👨‍💻 Author
 
 *Shashikant Kumar*
