@@ -40,8 +40,6 @@ hardware/
 images/
 screenshots/
 ## 📸 Project Screenshots
-## 📷 Project Screenshots
-
 ### 🏠 Home Page
 ![Home Page](screenshots/home_page.png)
 
