@@ -40,6 +40,7 @@ hardware/
 images/
 screenshots/
 ## 📸 Project Screenshots
+## 📷 Project Screenshots
 
 ### 🏠 Home Page
 ![Home Page](screenshots/home_page.png)
@@ -50,7 +51,7 @@ screenshots/
 ### 🌾 Crop Prediction Result
 ![Prediction Result](screenshots/prediction_result.png)
 
-### 📡 Sensor Data
+### 🌡️ Sensor Data
 ![Sensor Data](screenshots/sensor_data.png)
 👨‍💻 Author
 
